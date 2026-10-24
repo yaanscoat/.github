@@ -9,7 +9,7 @@ I'm yaans-coat, I work on stuff like internet tools, proxies, webports of games,
 * [matcha](https://github.com/yaascoat/matcha) - unblocked games website (archived)
 
 ## Webports
-*[gd-webport](https://github.com/yaaanscoat/gd-webport) - webport of geometry dash
+* [gd-webport](https://github.com/yaaanscoat/gd-webport) - webport of geometry dash
 
 ## Developer tools
 * nothin here yet..
