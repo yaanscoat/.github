@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yaanscoat/yaanscoat-site/refs/heads/main/assets/pfp.jpeg" alt="yaanscoatpfp" />
+  <img src="https://raw.githubusercontent.com/yaanscoat/yaanscoat-site/refs/heads/main/assets/pfp.jpeg" alt="yaanscoatpfp" width="300"/>
 </div>
 <h1 align="center">yaanscoat</h1>
 
