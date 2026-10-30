@@ -1,8 +1,17 @@
-<h1 align="center">yaans-coat</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yaanscoat/yaanscoat-site/refs/heads/main/assets/pfp.jpeg" alt="yaanscoatpfp" />
+</div>
+<h1 align="center">yaanscoat</h1>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=yaanscoat)
+
+* 13 yr old yr 9
+* vibe coding
+* Claude code
+* gyatt money?
+
+fav quotes:
 I cracked two eggs and a mayonaise.. or smth.
-
-I'm yaans-coat, I work on stuff like internet tools, proxies, webports of games, etc. I've maybe made some proxy sites you guys use! You may know me for mainly proxies but I do other things too.
 
 ## Website
 [yaanson.top](https://yaanson.top)
