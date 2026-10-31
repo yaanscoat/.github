@@ -1,14 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yaanscoat/yaanscoat-site/refs/heads/main/assets/pfp.jpeg" alt="yaanscoatpfp" width="300"/>
-</div>
-<h1 align="center">yaanscoat</h1>
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=yaanscoat)
-
-* 13 yr old yr 9
-* vibe coding
-* Claude code
-* gyatt money?
+## Got no clue what i'm doing!
 
 fav quotes:
 I cracked two eggs and a mayonaise.. or smth.
@@ -16,7 +6,7 @@ I cracked two eggs and a mayonaise.. or smth.
 ## Website
 [yaanson.top](https://yaanson.top)
 
-## Projects
+## My current projects
 * [black-waves](https://github.com/yaanscoat/black-waves) - web proxy browser (owner!)
 * [lonlii](https://github.com/yaanscoat/lonlii) - web-proxy/ubg based on cherri (owner!)
 * [gudday](https://github.com/yaanscoat/gudday) - web-proxy/ubg running on bare (owner!) (under-maintained!)
