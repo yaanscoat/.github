@@ -1,9 +1,16 @@
 <h1 align="center">yaanscoat ✌️🥀</h1>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yaanscoat&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=yaanscoat&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient)
-
-fav quotes:
-I cracked two eggs and a mayonaise.. or smth.
+<div align=center">
+  fav quotes:
+  - I cracked two eggs and a mayonaise.. or smth.
+  - asawachudenoi
+  - And i'm.. Iron Man (kachow..)
+  - i am a very higenic boy
+  - hellow, my son is a wattermelllon
+  - idevs likes the mayonaise
+  - beery-tomato likes berries but despises potatos
+  <img src="https://github-stats-extended.vercel.app/api?username=yaanscoat&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="gh stats">
+</div>
 
 ## Website
 [yaanson.top](https://yaanson.top)
