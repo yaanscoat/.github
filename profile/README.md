@@ -1,5 +1,5 @@
 ## No clue what i'm doing ✌️🥀
 
-## current projects
+## current project(s)
 
-- [yaans-site](https://github.com/yaanscoat/yaanscoat-site)
+- [yaanscoat/blackwaves](https://github.com/yaanscoat/blackwaves)
