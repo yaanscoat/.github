@@ -2,4 +2,4 @@
 
 ## current project(s)
 
-- [yaanscoat/blackwaves](https://github.com/yaanscoat/blackwaves)
+- [yaanscoat/astria.](https://github.com/yaanscoat/astria.)
