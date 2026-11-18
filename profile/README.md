@@ -7,4 +7,5 @@
 
 ## current project(s)
 
-- [yaanscoat/blackwaves](https://github.com/yaanscoat/blackwaves)
+- [yaanscoat/blackwaves](https://github.com/yaanscoat/blackwaves) - A all in one customized, minimalist and slick UBG-proxy
+- [yaanscoat/blackwaves-movies](https://github.com/yaanscoat/blackwaves-movies) - Movies for BlackWaves
