@@ -1,4 +1,4 @@
-<h1 align="center"></h1hi i'm yaanscoat, or just yaans>
+<h1 align="center">hihi, i'm yaanscoat, or just yaans</h1>
 <h1 align="center">info</h1>
 
 <p align="center">
