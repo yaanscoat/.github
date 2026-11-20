@@ -1,11 +1,15 @@
-<h1 align="center">yaanscoat</h1>
+<h1 align="center"></h1hi i'm yaanscoat, or just yaans>
+<h1 align="center">info</h1>
 
-<p align="center">No clue what I'm Doing!! ✌️🥀</p>
 <p align="center">
-  Hi, I'm yaanscoat but, you can call me yaans. I make cool stuff and work on making a more open internet. You may have used some of the stuff I work on.
+  - working on blackwaves
+  - learning js, css and decompiling/wasm
+  - he/him
 </p>
 
-## current project(s)
-
-- [yaanscoat/blackwaves](https://github.com/yaanscoat/blackwaves) - A all in one customized, minimalist and slick UBG-proxy
-- [yaanscoat/blackwaves-movies](https://github.com/yaanscoat/blackwaves-movies) - Movies for BlackWaves
+<h1 align="center">projects</h1>
+<p align="center">
+  - blackwaves
+  - ubg community
+  - getting a gf...
+</p>
