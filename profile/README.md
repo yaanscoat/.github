@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yaanscoat/.github/cdaf5876b7f77ea2613c84fdbfd3a64af24d3fdf/yaanscoat.png" width="250">
+</div>
 <h1 align="center">hihi, i'm yaanscoat, or just yaans</h1>
 <h1 align="center">info</h1>
 
